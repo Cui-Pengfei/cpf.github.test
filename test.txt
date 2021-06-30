@@ -1,3 +1,3 @@
 This is a test.txt,i don't known how to use GitHubDeskTop,just have to try.
-新添加的信息
+现在改变后，能在网站显示吗？
 
